@@ -1,0 +1,2 @@
+create table 'characters' ('id' integer primary key autoincrement, 'username' varchar(255) not null, 'password' varchar(255) not null);
+insert into 'characters' ('username', 'password') values ('potter', '12345');

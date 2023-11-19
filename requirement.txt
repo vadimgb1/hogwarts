@@ -1,0 +1,4 @@
+Flask
+Sqlalchemy
+Sqlalchemy-session
+Gunicorn
